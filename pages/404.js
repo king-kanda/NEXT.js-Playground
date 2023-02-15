@@ -1,7 +1,7 @@
 const NotFound= () => {
     return (
         <div>
-            Enter
+           not found bana
         </div>
     );
 }

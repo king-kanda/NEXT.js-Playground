@@ -12,13 +12,13 @@ const Navbar = () => {
                 <div className="nav-hoolder">
                     <ul className="flex items-center justify-between">
                         <li className="p-4">
-                            <a > home</a>
+                            <Link href="/">home </Link>
                         </li>
                         <li className="p-4">
                             <Link href="/about">About </Link>
                         </li>
                         <li className="p-4">
-                            <a > home</a>
+                            <Link href="/work">  Work </Link>
                         </li>
                     </ul>
                 </div>
